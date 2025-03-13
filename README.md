@@ -1,2 +1,2 @@
 # StrideProject
-project works 
+project works updated
